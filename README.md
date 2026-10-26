@@ -2,6 +2,10 @@
 
 A lightweight Korean work log for overtime and business trips.
 
+## Public website
+
+https://yayanaya1007.github.io/WorkTrail/
+
 ## Features
 
 - Record overtime start and end times, or trip departure and return times.
